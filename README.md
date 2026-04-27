@@ -75,8 +75,8 @@ Passionate about building intelligent systems that bridge AI, Computer Vision, I
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iheb-Chhaibi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Chhaibi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhaibiiheb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaibiiheb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -84,11 +84,11 @@ Passionate about building intelligent systems that bridge AI, Computer Vision, I
 ## 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Iheb-Chhaibi/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iheb-Chhaibi&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/chhaibiiheb/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chhaibiiheb&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/Iheb-Chhaibi/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iheb-Chhaibi&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/chhaibiiheb/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chhaibiiheb&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
