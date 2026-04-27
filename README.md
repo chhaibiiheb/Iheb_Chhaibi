@@ -1,112 +1,96 @@
 # 💫 About Me
 
-🤖 AI Engineer | 👁️ Computer Vision Specialist | 🔬 PhD Researcher in AI for Industry 4.0
-🔌 Telecommunication Engineer (B.Sc. 2022)
+```markdown
+<h1 align="center">Hi 👋, I'm Iheb Chhaibi</h1>
+<h3 align="center">AI Engineer | Computer Vision Specialist | IoT & Embedded Systems Engineer</h3>
 
-Passionate about building intelligent systems that bridge **AI, Computer Vision, Embedded Systems, and Real-World Industrial Applications**.
-
-My work focuses on designing production-ready AI solutions ranging from **computer vision pipelines** and **LLM-powered applications** to **IoT/embedded deployments** for industrial and defense-grade environments.
-
----
-
-## 🛠️ What I Do
-
-### 👁️ Computer Vision & Deep Learning
-
-* Develop and deploy advanced CV systems using **YOLO, OpenCV, PyTorch, TensorFlow**
-* Build object detection, instance segmentation, OCR, and video analytics pipelines
-* Experience with UAV/ISR metadata extraction and geospatial visualizations
-
-### 🤖 Generative AI & LLM Systems
-
-* Build AI agents and LLM-powered automation workflows
-* Develop evaluation pipelines, graders, and robust benchmarking systems
-* Work with prompt engineering, agent tooling, and inference optimization
-
-### 🌍 IoT / Embedded / Edge AI
-
-* Design smart embedded systems using **Arduino, Raspberry Pi, LoRa**
-* Deploy AI at the edge for real-time industrial/IoT applications
-* Integrate sensor networks with AI-driven analytics pipelines
-
-### 💻 Full-Stack AI Applications
-
-* Build web platforms for AI/CV products using **Django, React**
-* Create dashboards and visualization tools for AI inference and telemetry
-* Deploy scalable backend systems and APIs
+<p align="center">
+Passionate about building intelligent systems that bridge AI, Computer Vision, IoT, and Embedded Systems.
+</p>
 
 ---
 
-## 🔥 Current Focus
+## 🚀 About Me
 
-* 🎓 PhD Research in **AI, Computer Vision, and Industry 4.0**
-* 🚁 UAV / Geospatial AI Systems
-* 🧠 Generative AI & Autonomous Agents
-* 🏭 Industrial Automation & Smart Manufacturing
-
----
-
-## 🚀 Open to Collaborate On
-
-* AI / Computer Vision Products
-* Generative AI / LLM Applications
-* Industrial AI / Industry 4.0 Projects
-* Edge AI / Embedded Intelligence
-* Open Source AI Tooling
+- 🎓 Telecommunication Engineer (B.Sc. 2022)
+- 🔬 PhD Researcher in AI / Computer Vision / Industry 4.0
+- 🤖 AI Engineer specialized in Computer Vision & Generative AI
+- 🚁 Working on UAV / Geospatial / ISR Systems
+- 🌍 Building real-world industrial AI solutions
 
 ---
 
-> *Engineering intelligent systems from sensor to decision.*
+## 🛠 Core Expertise
+
+### Computer Vision / AI
+- Object Detection / Segmentation / OCR
+- YOLO / OpenCV / PyTorch / TensorFlow
+- Video Analytics / UAV Metadata Processing
+
+### Generative AI / LLMs
+- AI Agents / Prompt Engineering
+- Evaluation Pipelines / Graders / Benchmarks
+- Workflow Automation with LLM Systems
+
+### IoT / Embedded / Edge AI
+- Arduino / Raspberry Pi / LoRa
+- Edge AI Deployment
+- Smart Sensor Architectures
+
+### Full Stack / DevOps
+- Django / React / REST APIs
+- Docker / Linux / Git
+- AI Dashboard & Visualization Systems
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/iheb-chhaibi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:iheb.chhaibi@ept.ucar.tn)
+<p align="left">
+<a href="https://linkedin.com/in/iheb-chhaibi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:iheb.chhaibi@ept.ucar.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Languages & Frameworks
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-
-## AI / ML / CV
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=OpenCV\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-
-## Embedded / IoT
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RPi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi)
-![LoRa](https://img.shields.io/badge/LoRa-7B42BC?style=for-the-badge)
-
-## DevOps / Tooling
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-| ![Overview](https://github-readme-stats.vercel.app/api?username=Iheb-Chhaibi\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iheb-Chhaibi\&theme=tokyonight\&hide_border=true) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iheb-Chhaibi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Chhaibi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iheb-Chhaibi\&theme=tokyonight\&hide_border=true\&layout=compact\&langs_count=8) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+---
 
+## 🔥 Featured Projects
 
-[![](https://visitcount.itsvg.in/api?id=Iheb-Chhaibi&label=Profile%20Views&color=6)](https://visitcount.itsvg.in)
+<!-- Replace with your best repos -->
+<p align="center">
+  <a href="https://github.com/Iheb-Chhaibi/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iheb-Chhaibi&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Iheb-Chhaibi/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iheb-Chhaibi&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
+---
 
+<p align="center">
+  <i>Engineering intelligent systems from sensor to decision.</i>
+</p>
+```
