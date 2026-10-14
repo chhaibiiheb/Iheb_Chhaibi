@@ -1,99 +1,73 @@
-<h1 align="center">Hi 👋, I'm Iheb Chhaibi</h1>
-<h3 align="center">AI Engineer | Computer Vision Specialist | IoT & Embedded Systems Engineer</h3>
+<h1 align="center">Iheb Chhaibi</h1>
+
+<h3 align="center">Generative AI Engineer · Computer Vision · Multimodal AI · LLM Systems</h3>
 
 <p align="center">
-Passionate about building intelligent systems that bridge AI, Computer Vision, IoT, and Embedded Systems.
+  Building intelligent systems through computer vision, multimodal AI, LLM agents, and AI-driven automation.
 </p>
 
----
-
-## 🚀 About Me
-
-* 🎓 Telecommunication Engineer (B.Sc. 2022)
-* 🔬 PhD Researcher in AI / Computer Vision / Industry 4.0
-* 🤖 AI Engineer specialized in Computer Vision & Generative AI
-* 🚁 Working on UAV / Geospatial / ISR Systems
-* 🌍 Building real-world industrial AI solutions
-
----
-
-## 🛠 Core Expertise
-
-### Computer Vision / AI
-
-* Object Detection / Segmentation / OCR
-* YOLO / OpenCV / PyTorch / TensorFlow
-* Video Analytics / UAV Metadata Processing
-
-### Generative AI / LLMs
-
-* AI Agents / Prompt Engineering
-* Evaluation Pipelines / Graders / Benchmarks
-* Workflow Automation with LLM Systems
-
-### IoT / Embedded / Edge AI
-
-* Arduino / Raspberry Pi / LoRa
-* Edge AI Deployment
-* Smart Sensor Architectures
-
-### Full Stack / DevOps
-
-* Django / React / REST APIs
-* Docker / Linux / Git
-* AI Dashboard & Visualization Systems
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/iheb-chhaibi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/chhaibiiheb">
+    <img src="https://img.shields.io/badge/GitHub-chhaibiiheb-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:iheb.chhaibi@ept.ucar.tn">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://linkedin.com/in/iheb-chhaibi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## About
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=OpenCV\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+I'm an AI engineer working across Generative AI, computer vision, multimodal systems, and intelligent automation.
 
----
+My work combines model development, system integration, evaluation, and practical AI engineering to build solutions that go beyond prototypes.
 
-## 📊 GitHub Stats
+I also work on curriculum engineering, LLM training, and reinforcement learning environments, with a focus on task quality, evaluation pipelines, and reliable AI behavior.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhaibiiheb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhaibiiheb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+## Focus Areas
 
----
+| Area | Technologies & Concepts |
+|---|---|
+| Generative AI | LLMs, RAG, AI agents, prompt engineering |
+| Multimodal AI | Vision-language models, image understanding, OCR |
+| Computer Vision | Object detection, segmentation, video analytics |
+| LLM Engineering | Evaluation pipelines, benchmarks, graders, task design |
+| RL Environments | Environment design, task verification, reward validation |
+| AI Systems | Python, APIs, Docker, Linux, data pipelines |
+| Edge AI & IoT | Embedded systems, sensor integration, edge deployment |
 
-## 🔥 Featured Projects
+## Selected Work
 
-<p align="center">
-  <a href="https://github.com/chhaibiiheb/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chhaibiiheb&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/chhaibiiheb/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chhaibiiheb&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+I focus on building practical AI systems, from perception and information extraction to reasoning, evaluation, and automation.
+
+Explore my repositories for implementations, experiments, and engineering projects.
+
+<p>
+  <a href="https://github.com/chhaibiiheb?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
   </a>
 </p>
 
----
+## Technical Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git,postgres,fastapi,django" alt="Technical stack"/>
+</p>
+
+**AI Engineering:** LLMs · RAG · AI Agents · Model Evaluation · Multimodal AI
+
+**Computer Vision:** Object Detection · Segmentation · OCR · Video Analytics
+
+**Engineering:** APIs · Data Pipelines · Containerization · Edge AI
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/iheb-chhaibi">LinkedIn</a> ·
+  <a href="https://github.com/chhaibiiheb?tab=repositories">Repositories</a>
+</p>
 
 <p align="center">
-  <i>Engineering intelligent systems from sensor to decision.</i>
+  <i>From perception to reasoning, building AI systems that solve real problems.</i>
 </p>
